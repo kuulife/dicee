@@ -7,7 +7,6 @@
 <hr>
 <p>here are the models</p>
 <div>
-	<img src="images/screen1.png">
-	<img src="images/screen2.png">
-	<img src="images/screen3.png">
+	<img style="margin:0px 20px" width="100" src="dicee/images/screen3.png">
+	<img style="margin:0px 20px" width="100" src="dicee/images/screen2.png">
 </div>
